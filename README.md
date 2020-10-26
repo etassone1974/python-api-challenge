@@ -3,7 +3,7 @@ Python API Homework - What's the Weather Like?
 
 Files and Directories Included
 --------------------------------
-1) WeatherPy -- directory for WeatherPy task including Jupyter notebook and image and CSVv files
+1) WeatherPy -- directory for WeatherPy task including Jupyter notebook and image and CSV files
 
 2) WeatherPy/output_data -- directory for WeatherPy image and CSV files
 
